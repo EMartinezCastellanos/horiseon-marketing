@@ -6,4 +6,10 @@ Deployed application can be found here: https://emartinezcastellanos.github.io/h
 Below are some samples of the look of the website:
 
 
-!
+![screenshot1](./Develop/assets/images/screenshot-1.png)
+
+
+
+![screenshot2](./Develop/assets/images/screenshot-2.png)
+
+![screenshot3](./Develop/assets/images/screenshot-3.png)
